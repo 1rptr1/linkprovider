@@ -7,9 +7,9 @@ Filename should be a complete file name. if file dosen't exist it will create on
 currently it accepts only .txt format\
 'tilde' is used as the file separator so if name contains "tilde" it might be issue 
 
-# Issues\
+# Issues
 Cannot diffenciate in duplicate film names
 
-# To do\
+# To do
 Think of new separator\
 to eliminate duplicate filename
