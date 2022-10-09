@@ -12,4 +12,5 @@ Cannot diffenciate in duplicate film names
 
 # To do
 Think of new separator\
-to eliminate duplicate filename
+to eliminate duplicate filename\
+GUI with the help of JavaFX or Swing
