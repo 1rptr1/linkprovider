@@ -5,7 +5,7 @@ The data within quotes can be changed and the code will search for the specified
 keywork search and file name should be same\
 Filename should be a complete file name. if file dosen't exist it will create one\
 currently it accepts only .txt format\
-'~' is used as the file separator so if name contains "~" it might be issue 
+'tilde' is used as the file separator so if name contains "tilde" it might be issue 
 
 #Issues\
 Cannot diffenciate in duplicate film names
