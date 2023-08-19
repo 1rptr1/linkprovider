@@ -2,7 +2,7 @@ Feature: Check if any new video of 2180p resolution is been updated in 1337x
 
  # The data within quotes can be changes and the code will search for the specified file in 1337x
  #keywork search and file name should be same
-  @data
+  @data1
   Scenario: Go to 1337x and download all 2160p named file name along with torrent uri
     Given user navigates to 1337x website
     Then user searches for all files with "2160p" as keyword
